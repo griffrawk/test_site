@@ -1,1 +1,1 @@
-# test_site
+[![pages-build-deployment](https://github.com/griffrawk/test_site/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/griffrawk/test_site/actions/workflows/pages/pages-build-deployment)
