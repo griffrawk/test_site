@@ -21,7 +21,7 @@ if (!localStorage.getItem('name')) {
 } else {
     // subsequent runs retrieve stored name and change heading
     let storedName = localStorage.getItem('name');
-    myHeading.textContent = 'Mozilla is cool, ' + storedName;
+    myHeading.textContent = 'Coding is cool, ' + storedName;
 }
 
 // register button callback
